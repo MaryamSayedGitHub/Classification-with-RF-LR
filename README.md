@@ -1,6 +1,5 @@
 # 🌠 Star Wars: The Pulsar Chronicles 🌏
 
-![Pulsar](image.png)
 
 Welcome to the **HTRU2 Dataset**, where the stars themselves reveal secrets of the universe… or maybe just a bunch of radio noise! 🚀✨  
 This intergalactic treasure trove of data holds the key to differentiating between real pulsars (those cool, rhythmic neutron stars that behave like cosmic DJs 🎵) and impostors (a.k.a. random noise, the universe’s equivalent of static 🔊).
