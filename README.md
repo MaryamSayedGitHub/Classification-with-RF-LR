@@ -1,2 +1,2 @@
 # Classification-with-RF-LR
-https://github.com/MaryamSayedGitHub/Classification-with-RF-LR/blob/main/Deployment%20with%20streamlit.pdf
+[Deployment with streamlit.pdf](https://github.com/user-attachments/files/19595523/Deployment.with.streamlit.pdf)
